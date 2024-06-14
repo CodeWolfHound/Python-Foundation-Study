@@ -7,3 +7,7 @@ Python code Principles Study
 3.Loops
 
 4.Lists
+
+5.Strings
+
+6.While Loops
