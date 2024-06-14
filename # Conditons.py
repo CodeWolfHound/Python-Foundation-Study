@@ -9,8 +9,8 @@ name = "Ron"
 name = "Alan"
 Age = 25
 if name == "Alan" and Age == 25:
-        print(" Dam you 25??")
+        print("Nice to see you!")
 
-if name == "Alan" or name == "Don":
-                print("You not alanis ???")
+if name == "Ron" or name == "Don":
+                print("Who are you?")
 
